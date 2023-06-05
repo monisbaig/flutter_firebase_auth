@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">flutter-firebase-auth</string>
+    <string name="facebook_app_id">178225931735539</string>
+    <string name="facebook_client_token">d1c9d6421a0b0f3e664ad10b1b85c54e</string>
+    <string name="fb_login_protocol_scheme">fb178225931735539</string>
+</resources>
